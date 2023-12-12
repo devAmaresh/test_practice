@@ -7,7 +7,7 @@ const git={
     degree:'Btech',
     branch:'IT'
 }
-const port=
+
 app.get('',(req,res)=>{
 res.send("Hello amaresh")
 })
